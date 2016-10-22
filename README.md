@@ -28,3 +28,5 @@ This means that a MySQL database must be setup to connect to the database and th
 ### Who do I talk to? ###
 
 * @klAndersen
+
+Note: This project was originally published on BitBucket; https://bitbucket.org/klAndersen/imt4004
